@@ -11,3 +11,16 @@ E:\KeepLearn\Docker\aspnet-core-and-docker\dev\DevTest\obj\Debug\netcoreapp3.1\D
 E:\KeepLearn\Docker\aspnet-core-and-docker\dev\DevTest\obj\Debug\netcoreapp3.1\DevTest.dll
 E:\KeepLearn\Docker\aspnet-core-and-docker\dev\DevTest\obj\Debug\netcoreapp3.1\DevTest.pdb
 E:\KeepLearn\Docker\aspnet-core-and-docker\dev\DevTest\obj\Debug\netcoreapp3.1\DevTest.genruntimeconfig.cache
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\bin\Debug\netcoreapp3.1\DevTest.exe
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\bin\Debug\netcoreapp3.1\DevTest.deps.json
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\bin\Debug\netcoreapp3.1\DevTest.runtimeconfig.json
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\bin\Debug\netcoreapp3.1\DevTest.runtimeconfig.dev.json
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\bin\Debug\netcoreapp3.1\DevTest.dll
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\bin\Debug\netcoreapp3.1\DevTest.pdb
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\obj\Debug\netcoreapp3.1\DevTest.csprojAssemblyReference.cache
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\obj\Debug\netcoreapp3.1\DevTest.AssemblyInfoInputs.cache
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\obj\Debug\netcoreapp3.1\DevTest.AssemblyInfo.cs
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\obj\Debug\netcoreapp3.1\DevTest.csproj.CoreCompileInputs.cache
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\obj\Debug\netcoreapp3.1\DevTest.dll
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\obj\Debug\netcoreapp3.1\DevTest.pdb
+E:\KeepLearn\Docker\NET-Core-And-Docker\dev\DevTest\obj\Debug\netcoreapp3.1\DevTest.genruntimeconfig.cache

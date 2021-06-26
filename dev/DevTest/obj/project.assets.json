@@ -9,22 +9,25 @@
   },
   "packageFolders": {
     "C:\\Users\\jonty\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\DevTest\\DevTest.csproj",
+      "projectUniqueName": "E:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\DevTest\\DevTest.csproj",
       "projectName": "DevTest",
-      "projectPath": "E:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\DevTest\\DevTest.csproj",
+      "projectPath": "E:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\DevTest\\DevTest.csproj",
       "packagesPath": "C:\\Users\\jonty\\.nuget\\packages\\",
-      "outputPath": "E:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\DevTest\\obj\\",
+      "outputPath": "E:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\DevTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\jonty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -59,18 +62,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

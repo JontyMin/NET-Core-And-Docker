@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\ExampleApp\\ExampleApp.csproj",
+  "FilePath": "e:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\ExampleApp\\ExampleApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,38 +14392,38 @@
   "RootNamespace": "ExampleApp",
   "Documents": [
     {
-      "FilePath": "e:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\ExampleApp\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\ExampleApp\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\ExampleApp\\Pages\\Privacy.cshtml",
+      "FilePath": "e:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\ExampleApp\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\ExampleApp\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "e:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\ExampleApp\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\ExampleApp\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\ExampleApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "e:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\ExampleApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\KeepLearn\\Docker\\aspnet-core-and-docker\\dev\\ExampleApp\\Pages\\_ViewStart.cshtml",
+      "FilePath": "e:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\ExampleApp\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\ExampleApp\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\ExampleApp\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\KeepLearn\\Docker\\NET-Core-And-Docker\\dev\\ExampleApp\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
